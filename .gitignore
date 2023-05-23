@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+*.pth.tar
+runs/
+.data/
+torchtext_customdata/
+mydata/
+dataset/
+transformed_images/
+logs/
+
 # Distribution / packaging
 .Python
 build/
